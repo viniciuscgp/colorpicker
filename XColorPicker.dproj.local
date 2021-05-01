@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/05/25 07:41:03.000.506,=C:\Users\vinia\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2020/05/25 07:42:16.000.556,C:\Users\vinia\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Dropbox\Criacoes utilitarios\ColorPicker\uMain.pas</Transaction>
+    <Transaction>2020/05/25 07:42:16.000.556,C:\Users\vinia\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Dropbox\Criacoes utilitarios\ColorPicker\uMain.dfm</Transaction>
+    <Transaction>2020/05/25 07:44:29.000.585,C:\Users\vinia\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Dropbox\Criacoes utilitarios\ColorPicker\XColorPicker.dproj</Transaction>
+    <Transaction>2020/05/25 08:47:16.000.915,=C:\Dropbox\Criacoes utilitarios\ColorPicker\Unit1.pas</Transaction>
+    <Transaction>2020/05/25 08:47:47.000.603,C:\Dropbox\Criacoes utilitarios\ColorPicker\Unit1.pas=C:\Dropbox\Criacoes utilitarios\ColorPicker\uFunctions.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="uFunctions.pas"/>
+    <File Path="uMain.pas"/>
+    <File Path="uMain.dfm"/>
+  </ProjectSortOrder>
+	<BT_BuildType>Debug</BT_BuildType>
+</BorlandProject>
